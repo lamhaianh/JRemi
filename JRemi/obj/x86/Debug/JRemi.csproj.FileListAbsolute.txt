@@ -1,0 +1,26 @@
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\bin\Debug\JRemi.exe
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\bin\Debug\JRemi.pdb
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\obj\x86\Debug\JRemi.Home.resources
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\obj\x86\Debug\JRemi.Properties.Resources.resources
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\obj\x86\Debug\JRemi.exe
+C:\Users\Anh\AppData\Local\Temporary Projects\JRemi\obj\x86\Debug\JRemi.pdb
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\JRemi.exe
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\JRemi.pdb
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\bin\Debug\JRemi.exe.config
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\JRemi.Home.resources
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\JRemi.Properties.Resources.resources
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\bin\Debug\JRemi.exe
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\bin\Debug\JRemi.pdb
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\bin\Debug\JRemi.exe.manifest
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\bin\Debug\JRemi.application
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\JRemi.TrustInfo.xml
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\JRemi.exe.manifest
+C:\Users\Anh\documents\visual studio 2010\Projects\JRemi\JRemi\obj\x86\Debug\JRemi.application
